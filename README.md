@@ -12,3 +12,11 @@ This is a song and lyric creator. I built upon a starter product to develop the 
 4. Change directory: cd Song-And-Lyric-Creator
 4. Run: npm install
 5. Run: npm run dev
+
+## Navigating the project
+1. First add a song by entering the title and clicking the add symbol. This will appear as a list element
+2. Song details can be view by clicking a list element.
+3. Within the song details page lyrics can be added.
+4. Lyrics can be liked within the page. 
+5. The back link will return a user to the home page.
+6. Songs can be deleted by selected the delete icon.
