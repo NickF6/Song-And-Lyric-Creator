@@ -9,5 +9,6 @@ This is a song and lyric creator. I built upon a starter product to develop the 
 1. Clone the repository.
 2. Locate the folder with the command line.
 3. Find the server.js file under the server folder. Edit the MONGO_URI with the connection string. Replace the username, database password, and database name with those used in the MongoDB setup.
-4. run npm install
-5. run npm run dev
+4. Change directory: cd Song-And-Lyric-Creator
+4. Run: npm install
+5. Run: npm run dev
