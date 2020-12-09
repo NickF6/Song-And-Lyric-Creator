@@ -8,5 +8,5 @@ This is a song and lyric creator. I built upon a starter product to develop the 
 # Running the project 
 1. Clone the repository
 2. Locate the folder with the command line and run the following commands:
-  A. npm install
-  B. npm run dev
+3.  npm install
+4.  npm run dev
